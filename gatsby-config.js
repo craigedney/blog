@@ -3,7 +3,7 @@ module.exports = {
     title: `Craig Edney`,
     author: {
       name: `Craig Edney`,
-      summary: `- No Bullsh*t Tech Entrepreneur and CEO / Founder at Machine Learning Audio LTD.`,
+      summary: `- CEO / Founder at Machine Learning Audio LTD.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
